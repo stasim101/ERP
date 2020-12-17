@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\CODE\Microservices-PRO\.metadata\.plugins\org.eclipse.jdt.core
