@@ -1,12 +1,9 @@
 package com.personal.registry;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
+//@SpringBootTest
 class EurekaServerApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
