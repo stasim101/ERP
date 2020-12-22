@@ -9,4 +9,5 @@ Below are few modules enlisted.
  - Human Capital Management
  - Materials Management
  - Sales and Distribution
+ - Financial Accounting
 
