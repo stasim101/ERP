@@ -6,7 +6,7 @@ To help each department with their own set of tasks and keep track of it along w
 Just like an enterprise has several departments to fulfill its responsibilities. Similarly an ERP has several modules to accomplish the task provided to each department.
 Below are few modules enlisted.
 
- - Human Resource
- - Procurement
- - Logistics
+ - Human Capital Management
+ - Materials Management
+ - Sales and Distribution
 
