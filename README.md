@@ -10,4 +10,5 @@ Below are few modules enlisted.
  - Materials Management
  - Sales and Distribution
  - Financial Accounting
+ - Production Planning
 
