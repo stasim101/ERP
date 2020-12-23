@@ -1263,3 +1263,4 @@ Caused by: java.lang.Exception: Resource '/EurekaServer/pom.xml' does not exist.
 2020-12-23 08:26:32,774 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-12-23 08:26:32,774 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2020-12-23 08:26:32,774 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CODE\Microservices-PRO\JWTSecurity\src\test\resources
+2020-12-23 08:27:57,180 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
