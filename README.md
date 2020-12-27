@@ -12,3 +12,8 @@ Below are few modules enlisted.
  - Financial Accounting
  - Production Planning
  - Controlling 
+
+
+## Human Capital Management
+
+HCM Module consists of multiple workflows to perform various tasks of Human Resource. 
