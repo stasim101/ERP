@@ -6,16 +6,16 @@ To help each department with their own set of tasks and keep track of it along w
 Just like an enterprise has several departments to fulfill its responsibilities. Similarly an ERP has several modules to accomplish the task provided to each department.
 Below are few modules enlisted.
 
- > Human Capital Management
- > Materials Management
- > Sales and Distribution
- > Financial Accounting
- > Production Planning
- > Controlling 
+ - Human Capital Management
+ - Materials Management
+ - Sales and Distribution
+ - Financial Accounting
+ - Production Planning
+ - Controlling 
 
 
 ## Human Capital Management
 
 HCM Module consists of multiple workflows to perform various tasks of Human Resource. Few common tasks of HR are mentioned below.
 
- > Job Posting
+ - Job Posting
