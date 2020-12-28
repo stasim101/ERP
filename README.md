@@ -28,4 +28,6 @@ MM Module consists of multiple workflows to perform various tasks of Materials M
 are mentioned below.
 
  - Materials Purchase
+ - Stores and stock 
+ - Receiving and issue
 
