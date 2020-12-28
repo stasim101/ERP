@@ -32,5 +32,6 @@ are mentioned below.
  - Receiving and issue
  - Transportation and Material Handling
  - Value engineering and analysis
+ - Disposable of surplus and scrap
  
 
