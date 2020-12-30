@@ -46,6 +46,7 @@ are mentioned below.
  - Master Data
  - Sales
  - Shipping of Material
+ - Billing-Related
  
  
 
