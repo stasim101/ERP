@@ -38,4 +38,12 @@ are mentioned below.
  - Disposable of surplus and scrap
  - Offering continuing education
  
+## Sales and Distribution
+
+MM Module consists of multiple workflows to perform various tasks of Materials Management. Few common tasks of MM
+are mentioned below.
+
+ - Master Data
+ 
+ 
 
