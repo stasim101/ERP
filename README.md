@@ -44,6 +44,7 @@ MM Module consists of multiple workflows to perform various tasks of Materials M
 are mentioned below.
 
  - Master Data
+ - Sales
  
  
 
