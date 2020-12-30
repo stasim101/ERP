@@ -49,5 +49,6 @@ are mentioned below.
  - Billing-Related
  - Sales support
  - Transportation of products
+ - Foreign Trade
  
 
