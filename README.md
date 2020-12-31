@@ -58,5 +58,6 @@ MM Module consists of multiple workflows to perform various tasks of Materials M
 are mentioned below.
 
  - General Ledger
+ - Accounts Receivable and Payable
  
 
