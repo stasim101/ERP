@@ -63,3 +63,4 @@ are mentioned below.
  - Bank Accounting
  - Travel Management
  - Fund Management
+ - Legal Consolidation
