@@ -51,4 +51,12 @@ are mentioned below.
  - Transportation of products
  - Foreign Trade
  
+ 
+ ## Financial Accounting
+
+MM Module consists of multiple workflows to perform various tasks of Materials Management. Few common tasks of MM
+are mentioned below.
+
+ - General Ledger
+ 
 
