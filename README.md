@@ -62,3 +62,4 @@ are mentioned below.
  - Asset Accounting
  - Bank Accounting
  - Travel Management
+ - Fund Management
