@@ -40,7 +40,7 @@ are mentioned below.
  
 ## Sales and Distribution
 
-MM Module consists of multiple workflows to perform various tasks of Materials Management. Few common tasks of MM
+SD Module consists of multiple workflows to perform various tasks ofSales and Distribution. Few common tasks of SD
 are mentioned below.
 
  - Master Data
@@ -54,7 +54,7 @@ are mentioned below.
  
  ## Financial Accounting
 
-MM Module consists of multiple workflows to perform various tasks of Materials Management. Few common tasks of MM
+FA Module consists of multiple workflows to perform various tasks of Financial Accounting. Few common tasks of FA
 are mentioned below.
 
  - General Ledger
