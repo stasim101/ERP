@@ -76,5 +76,4 @@ are mentioned below.
  - Billing of Material
  - Routings
  - Capacity Planning
-
- 
+ - Master production scheduling
