@@ -75,5 +75,6 @@ are mentioned below.
  - Material Requirement Planning
  - Billing of Material
  - Routings
+ - Capacity Planning
 
  
