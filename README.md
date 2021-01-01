@@ -64,3 +64,13 @@ are mentioned below.
  - Travel Management
  - Fund Management
  - Legal Consolidation
+ 
+
+
+ ## Financial Accounting
+
+FA Module consists of multiple workflows to perform various tasks of Financial Accounting. Few common tasks of FA
+are mentioned below.
+
+ - Material Requirement Planning
+ 
