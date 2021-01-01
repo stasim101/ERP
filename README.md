@@ -73,5 +73,7 @@ FA Module consists of multiple workflows to perform various tasks of Financial A
 are mentioned below. 
 
  - Material Requirement Planning
+ - Billing of Material
+ - Routings
 
  
