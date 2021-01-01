@@ -67,9 +67,9 @@ are mentioned below.
  
 
 
- ## Financial Accounting
+ ## Production Planning
 
-FA Module consists of multiple workflows to perform various tasks of Financial Accounting. Few common tasks of FA
+PP Module consists of multiple workflows to perform various tasks of Production Planning. Few common tasks of PP
 are mentioned below. 
 
  - Material Requirement Planning
@@ -77,3 +77,5 @@ are mentioned below.
  - Routings
  - Capacity Planning
  - Master production scheduling
+ - Shop floor
+
