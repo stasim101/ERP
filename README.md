@@ -33,7 +33,6 @@ are mentioned below.
  - Materials Purchase
  - Stores and stock 
  - Receiving and issue
- - Transportation and Material Handling
  - Value engineering and analysis
  - Disposable of surplus and scrap
  - Offering continuing education
