@@ -11,7 +11,7 @@ Below are few modules enlisted.
  - Sales and Distribution
  - Financial Accounting
  - Production Planning
- - Controlling 
+  
 
 
 ## Human Capital Management
