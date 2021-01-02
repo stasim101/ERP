@@ -34,7 +34,6 @@ are mentioned below.
  - Receiving and issue
  - Value engineering and analysis
  - Disposable of surplus and scrap
- - Offering continuing education
  
 ## Sales and Distribution
 
