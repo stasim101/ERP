@@ -12,7 +12,7 @@
 	<artifactId>HCM</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>HCM</name>
-	<description>Human Capital Management</description>
+	<description>Human Capital Management Module</description>
 
 	<properties>
 		<java.version>1.8</java.version>
