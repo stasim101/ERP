@@ -11,4 +11,68 @@ Below are few modules enlisted.
  - Sales and Distribution
  - Financial Accounting
  - Production Planning
- - Controlling 
+  
+
+
+## Human Capital Management
+
+HCM Module consists of multiple workflows to perform various tasks of Human Resource. Few common tasks of HR are mentioned below.
+
+ - Job Posting
+ - Recruitment
+ - Release
+ - Update and manage policies
+ - Maintain employee records
+
+## Materials Management
+
+MM Module consists of multiple workflows to perform various tasks of Materials Management. Few common tasks of MM
+are mentioned below.
+
+ - Materials Purchase
+ - Stores and stock 
+ - Receiving and issue
+ - Value engineering and analysis
+ - Disposable of surplus and scrap
+ 
+## Sales and Distribution
+
+SD Module consists of multiple workflows to perform various tasks ofSales and Distribution. Few common tasks of SD
+are mentioned below.
+
+ - Master Data
+ - Sales
+ - Shipping of Material
+ - Billing-Related
+ - Sales support
+ - Transportation of products
+ - Foreign Trade
+ 
+ 
+ ## Financial Accounting
+
+FA Module consists of multiple workflows to perform various tasks of Financial Accounting. Few common tasks of FA
+are mentioned below.
+
+ - General Ledger
+ - Accounts Receivable and Payable
+ - Asset Accounting
+ - Bank Accounting
+ - Travel Management
+ - Fund Management
+ - Legal Consolidation
+ 
+
+
+ ## Production Planning
+
+PP Module consists of multiple workflows to perform various tasks of Production Planning. Few common tasks of PP
+are mentioned below. 
+
+ - Material Requirement Planning
+ - Billing of Material
+ - Routings
+ - Capacity Planning
+ - Master production scheduling
+ - Shop floor
+
