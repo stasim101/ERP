@@ -33,7 +33,6 @@
 			<artifactId>postgresql</artifactId>
 			<scope>runtime</scope>
 		</dependency>
-			<scope>test</scope>
 		</dependency>
 	</dependencies>
 
