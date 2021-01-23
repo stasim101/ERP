@@ -22,7 +22,6 @@ HCM Module consists of multiple workflows to perform various tasks of Human Reso
  - Maintain employee records
 
 ## Materials Management
-
 MM Module consists of multiple workflows to perform various tasks of Materials Management. Few common tasks of MM
 are mentioned below.
 
