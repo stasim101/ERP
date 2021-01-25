@@ -18,7 +18,6 @@ HCM Module consists of multiple workflows to perform various tasks of Human Reso
  - Job Posting
  - Recruitment
  - Release
- - Update and manage policies
  - Maintain employee records
 
 ## Materials Management
