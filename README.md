@@ -42,7 +42,6 @@ are mentioned below.
  - Transportation of products
  - Foreign Trade
 
- 
  ## Financial Accounting
 
 FA Module consists of multiple workflows to perform various tasks of Financial Accounting. Few common tasks of FA
