@@ -66,4 +66,3 @@ are mentioned below.
  - Capacity Planning
  - Master production scheduling
  - Shop floor
-
