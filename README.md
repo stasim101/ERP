@@ -28,8 +28,7 @@ are mentioned below.
  - Stores and stock 
  - Receiving and issue
  - Value engineering and analysis
- - Disposable of surplus and scrap
- 
+
 ## Sales and Distribution
 SD Module consists of multiple workflows to perform various tasks ofSales and Distribution. Few common tasks of SD
 are mentioned below.
