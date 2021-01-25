@@ -56,7 +56,6 @@ are mentioned below.
  - Legal Consolidation
  
 
-
  ## Production Planning
 
 PP Module consists of multiple workflows to perform various tasks of Production Planning. Few common tasks of PP
