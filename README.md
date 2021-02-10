@@ -30,6 +30,7 @@ are mentioned below.
 ## Sales and Distribution
 SD Module consists of multiple workflows to perform various tasks ofSales and Distribution. Few common tasks of SD
 are mentioned below.
+
  - Master Data
  - Sales
  - Shipping of Material
