@@ -14,6 +14,7 @@ Below are few modules enlisted.
  
 ## Human Capital Management
 HCM Module consists of multiple workflows to perform various tasks of Human Resource. Few common tasks of HR are mentioned below.
+
  - Job Posting
  - Recruitment
  - Release
