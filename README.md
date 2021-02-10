@@ -45,6 +45,7 @@ are mentioned below.
 
 FA Module consists of multiple workflows to perform various tasks of Financial Accounting. Few common tasks of FA
 are mentioned below.
+
  - General Ledger
  - Accounts Receivable and Payable
  - Asset Accounting
